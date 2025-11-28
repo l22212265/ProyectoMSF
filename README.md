@@ -3,6 +3,7 @@
 ## Información de las estudiantes
 
 Yoseline Lizeth Puentes Hernandez \[22212265]; l22212265@tectijuana.edu.mx
+
 Nicole Zoe Camacho Quezada \[22211747]; l22211747@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos

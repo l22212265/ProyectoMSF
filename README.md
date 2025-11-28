@@ -59,7 +59,7 @@ Este escalón simboliza el paso del sistema desde un estado basal hacia un estad
 Así, el modelo captura la dinámica esencial de la formación, tránsito y almacenamiento de la orina mediante un equivalente eléctrico de segundo orden RLC, permitiendo estudiar su comportamiento ante una entrada fisiológica básica.
 
 
-Palabras clave: Circuito RLC; Controlador PI; Sistema musculoesqueletico; Modelo matematico; Simulaciones numéricas.
+Palabras clave: Circuito RLC; Controlador PID; Sistema urinario; Modelo matematico; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 

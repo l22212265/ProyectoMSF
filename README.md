@@ -37,13 +37,13 @@ El sistema urinario, específicamente el proceso de formación, conducción y al
 La dificultad que enfrenta la orina para desplazarse a través de los túbulos renales, los uréteres y los esfínteres se modela mediante un resistor R.
 Esta resistencia representa: la oposición al avance del filtrado dentro de los túbulos renales,  fricción del líquido contra las paredes de los uréteres durante su conducción hacia la vejiga, resistencia generada por los esfínteres ureterales que regulan la salida del flujo.
 En conjunto, la resistencia refleja la limitación fisiológica al flujo, que determina qué tan rápido o lento se desplaza la orina.
-**Capacidad de almacenamiento de las vías urinarias**
+**Capacidad de almacenamiento de las vías urinarias**.
 La distensibilidad de la vejiga se representa mediante un capacitor C. Este elemento modela la función principal de la vejiga como depósito de almacenamiento antes de la micción.
 El capacitor refleja la habilidad del sistema urinario para almacenar volumen sin generar incrementos bruscos e inmediatos de presión, lo cual es fundamental para una función adecuada.
-## Inercia del flujo urinario
+**Inercia del flujo urinario**.
 La masa del líquido urinario en movimiento y la inercia hidráulica dentro de las estructuras tubulares se modelan mediante un inductor L representa la tendencia del flujo urinario a oponerse a cambios rápidos en su velocidad, la inercia del líquido en los túbulos renales y el comportamiento peristáltico de los uréteres que impulsa la orina en ondas, generando un flujo que no cambia instantáneamente al aumentar o disminuir la presión.
 El inductor refleja cómo el sistema urinario responde con cierto retardo natural ante cambios súbitos en la presión o volumen generado por el riñón.
-## Señal de entrada al sistema
+**Señal de entrada al sistema**.
 La señal de entrada al circuito RLC se modela como un escalón unitario de presión, que representa un incremento rápido en la presión de filtración glomerular o en la producción momentánea de líquido urinario.
 Este escalón simboliza el paso del sistema desde un estado basal hacia un estado donde se genera o conduce más volumen, permitiendo observar cómo el flujo urinario responde ante un estímulo súbito, los conductos se llenan de forma gradual según su capacitancia y la inercia del líquido suaviza los cambios bruscos del flujo.
 

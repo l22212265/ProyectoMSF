@@ -37,7 +37,7 @@ El sistema urinario, específicamente el proceso de formación, conducción y al
 La dificultad que enfrenta la orina para desplazarse a través de los túbulos renales, los uréteres y los esfínteres se modela mediante un resistor R.
 Esta resistencia representa: la oposición al avance del filtrado dentro de los túbulos renales,  fricción del líquido contra las paredes de los uréteres durante su conducción hacia la vejiga, resistencia generada por los esfínteres ureterales que regulan la salida del flujo.
 En conjunto, la resistencia refleja la limitación fisiológica al flujo, que determina qué tan rápido o lento se desplaza la orina.
-## Capacidad de almacenamiento de las vías urinarias
+**Capacidad de almacenamiento de las vías urinarias**
 La distensibilidad de la vejiga se representa mediante un capacitor C. Este elemento modela la función principal de la vejiga como depósito de almacenamiento antes de la micción.
 El capacitor refleja la habilidad del sistema urinario para almacenar volumen sin generar incrementos bruscos e inmediatos de presión, lo cual es fundamental para una función adecuada.
 ## Inercia del flujo urinario

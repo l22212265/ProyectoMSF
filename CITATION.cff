@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; 
+message: lenguaje m; 
+type: software
+authors:
+  - given-names: Yoseline L, Nicole Z. 
+    family-names: Puentes, Camacho.
+    email: l22212265@tectijuana.edu.mx
+    affiliation: TecNM / ITT
+repository-code: 'https://github.com/l22212265/ProyectoMSF'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Modelo matemático
+  - Sistema urinario
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-12-12'

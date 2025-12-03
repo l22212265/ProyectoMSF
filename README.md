@@ -34,7 +34,9 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 ## Descripción detallada del sistema
 
 El sistema urinario, específicamente el proceso de formación, conducción y almacenamiento de la orina desde los riñones hasta la vejiga, puede representarse mediante un modelo simplificado que captura la dinámica de presión y flujo del líquido urinario a lo largo de sus estructuras principales. Para describir este comportamiento mediante un circuito eléctrico equivalente de segundo orden, se consideran las siguientes suposiciones fisiológicas:
-##Resistencia al flujo urinario
+
+**Resistencia al flujo urinario**
+
 La dificultad que enfrenta la orina para desplazarse a través de los túbulos renales, los uréteres y los esfínteres se modela mediante un resistor R.
 Esta resistencia representa: la oposición al avance del filtrado dentro de los túbulos renales,  fricción del líquido contra las paredes de los uréteres durante su conducción hacia la vejiga, resistencia generada por los esfínteres ureterales que regulan la salida del flujo.
 En conjunto, la resistencia refleja la limitación fisiológica al flujo, que determina qué tan rápido o lento se desplaza la orina.
